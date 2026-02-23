@@ -126,6 +126,8 @@ Si usas VS Code como IDE y te llama la atención tener las extensiones que has p
 * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 * [Master GIT through play (Aprende GIT jugando)](https://www.gitmastery.me/).
 * [Ejercicios de Git](https://www.w3schools.com/git/git_exercises.asp).
+* [¿Qué es DNS?](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/)
+* [¿Qué son las cookies?](https://www.cloudflare.com/es-es/learning/privacy/what-are-cookies/)
 * [Curso de CSS](https://www.youtube.com/watch?v=hrxjBqZWsb0).
 * [Curso de Git y GitHub](https://www.youtube.com/watch?v=niPExbK8lSw).
 
